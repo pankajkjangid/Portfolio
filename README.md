@@ -11,19 +11,15 @@
     href="https://www.instagram.com/pankajjangid.fit" target="_blank"><img
         src="https://img.shields.io/badge/instagram-Pankaj-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-
 # Decathlon Online Shopping App
 Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
-
-<a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-When I was working in a company as an intern, I build this application which is basically a storytelling application where you story coming from the server and you can choose your choice in order turn story in your direction.
-
-The application uses firebase to store stories and also it shows different twists according to user choice. It has a quite simple user interface with some animation, the application will upload new stories as they completing writing the stories by writer and the user does not need to update the application in order to read new content. I have used a custom user interface because requirements are to make the app more like a book so we have made the custom drawable and view to perform this action.
 
 ### Technolgies : Android SDK , Java, Xml, Firebase
 
 ![Note app feature 1 0](./images/decathlon_app.png)
+
+<a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
 
 <p align="center">
 <img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
