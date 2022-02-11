@@ -23,6 +23,8 @@ The application uses firebase to store stories and also it shows different twist
 
 ### Technolgies : Android SDK , Java, Xml, Firebase
 
+![Note app feature 1 0](./images/decathlon_app.png)
+
 <p align="center">
 <img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
