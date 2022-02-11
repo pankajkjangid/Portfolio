@@ -14,41 +14,13 @@
 # Decathlon Online Shopping App
 Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
 
-### Technolgies : Android SDK , Java, Xml, Firebase
-
-![Note app feature 1 0](./images/decathlon_app.png)
+#### Technolgies : Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit
 
 <a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
-
-<p align="center">
-<img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-<img src="images/storyfy app/storyfy video.gif" width="210" title="Storyfy">
-</p>
-
-# Covid Tracker
-
-I build this application when I was doing a challenge at topcoder where i have APIs for the covid-19 data so this application used to track cases all over the world.
-The application uses retrofit, data binding, and Rx java for calling API and fetch all the data in order to show on the list. I used graphs also for indicating the number of cases, deaths, and confirmed cases all over the world. You can also see data particular to a country.
-
-### Technolgies : Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack LibrariesRetrofit
+![Note app feature 1 0](./images/decathlon_app.png)
 
 
-## Some Cool Projects :smile:
-
-### Computer controller
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/file/d/10clWduncP0a4BY9wJDU3ncJ9-e4sbteW/view) 
-
-Application is used to control keyboard and mouse in the computer using an android phone, you need to install server application in computer and apk in android, in order to work the application your both devices should be in the same network. You can even play games using a gyro sensor in android.
-
-### Computer vision controller
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1SbcrwfzXhUZwYGfqmsB1J5maa8Ju0ww9) 
-
-You can use a single paper to control the game, you just need to show paper in front of camera and move to different directions in order to control the game.
-This application is using the OpenCV for performing computer vision algorithms it is used to capture the color and also calculate a distance where the paper is moved and then converting coordinate into a game coordinate and press the buttons for controlling the game.
 
 
 
