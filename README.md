@@ -21,7 +21,7 @@ Now enjoy and experience the entire offering of Decathlon India’s 70+ sports a
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Note app feature 1 0](./images/decathlon_app.png)
+![Decathlon Online Shopping App](./images/decathlon_app.png)
 
 # 2. RajCop (Only For Rajasthan Police Officials)
 
@@ -33,7 +33,7 @@ RajCop - Mobile application only to be used by authorized Rajasthan Police Offic
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Note app feature 1 0](./images/rajcop_official.png)
+![RajCop (Only For Rajasthan Police Officials)](./images/rajcop_official.png)
 
 # 3. RajCop Citizen
 
@@ -45,7 +45,7 @@ This application is for citizens only to access  Lockdown Pass(Restrictions rela
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Note app feature 1 0](./images/rajcop_citizin.png)
+![RajCop Citizen](./images/rajcop_citizin.png)
 
 # 4. iGuruJi -CSIR NET,GATE,IIT-JAM
 
@@ -57,7 +57,7 @@ iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , 
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Note app feature 1 0](./images/iguruji.png)
+![iGuruJi -CSIR NET,GATE,IIT-JAM](./images/iguruji.png)
 
 # 5. Voila SG
 
@@ -72,7 +72,7 @@ No more worries of per hour charges and overstay beyond the necessary timings.
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Note app feature 1 0](./images/voilla_sg.png)
+![Voila SG](./images/voilla_sg.png)
 
 # 6. Voila Helper
 
@@ -85,7 +85,7 @@ Please Visit our website for more details: https://www.voilasg.com
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Note app feature 1 0](./images/voilla_helper.png)
+![Voila Helper](./images/voilla_helper.png)
 
 
 ## Thanks for stopping by!
