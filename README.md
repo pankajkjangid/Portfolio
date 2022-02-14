@@ -2,7 +2,7 @@
 
 ### Hello, I am an android developer, i have 5+ years of experience , i always follow best practices for android application and I am always ready to learn new technologies, methods, and principle as per the project requirements.
 
-<a href="https://docs.google.com/document/d/12G3-2j2QdWgcFz3QqH9ZaiZH1HHyu_iC/edit?usp=sharing&ouid=104144189059365622820&rtpof=true&sd=true" download><img
+<a href="https://docs.google.com/document/d/12G3-2j2QdWgcFz3QqH9ZaiZH1HHyu_iC/edit?usp=sharing&ouid=104144189059365622820&rtpof=true&sd=true"  target="_blank" download><img
         src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a
     href="mailto:pankaj0619@gmail.com"><img
         src="https://img.shields.io/badge/Email-Pankaj-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a
