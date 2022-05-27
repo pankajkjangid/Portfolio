@@ -15,7 +15,13 @@
 # 1. Decathlon Online Shopping App
 Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
 
-#### Technolgies : Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit
+#### Technolgies : Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit,MVP
+
+#### Key Responsibility:
+- Working on new features for Decathlon India Home Page and Search Screen.
+- Revamp the Search screen which gives 30% more user interactions.
+- Working on the agile environment.
+- Write Unit tests & Resolve the Bugs.
 
 <a href='https://play.google.com/store/apps/details?id=com.evamall.evacustomer&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
@@ -27,8 +33,16 @@ Now enjoy and experience the entire offering of Decathlon India’s 70+ sports a
 
 RajCop - Mobile application only to be used by authorized Rajasthan Police Officials. Others may not install and try it out. Its use is subject to legal consequences.
 
-#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,
+#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,MVP
 
+#### Key Responsibility:
+- Maintaining the existing code and developing new features for Rajasthan Police Project CCTNS  Android Applications.
+- Creating android applications from the scratch.
+- Building compliant and scalable android Applications.
+- Working on Pending FIR,Pending Pariwad,Office Status & Rajadhara Map.
+- Resolve the bugs. 
+- Upgrade the project (Dependency)
+- 
 <a href='https://play.google.com/store/apps/details?id=com.datainfosys.rajasthanpolice.official&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
@@ -39,7 +53,14 @@ RajCop - Mobile application only to be used by authorized Rajasthan Police Offic
 
 This application is for citizens only to access  Lockdown Pass(Restrictions related to Corona Virus spread, police control room and selected contacts, Complaint registration and its status, View FIR- all FIR's except those which are restricted by law(Revealing victims identity in case of sexual offences, etc.), Report Crime, Search Vehicle- Basic details many more
 
-#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,
+#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,MVP
+
+#### Key Responsibility:
+- Maintaining the existing code and developing new features for Rajasthan Police Project CCTNS  Android Applications.
+- Creating android applications from the scratch.
+- Building compliant and scalable android Applications.
+- Resolve the bugs. 
+- Upgrade the project (Dependency)
 
 <a href='https://play.google.com/store/apps/details?id=com.datainfosys.rajasthanpolice.publicapp&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
@@ -53,6 +74,11 @@ iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , 
 
 #### Technolgies : Java,Kotlin,RxJava / RxAndroid,Exo player,Retrofit,XML,MVC
 
+#### Key Responsibility:
+- Maintaining the existing code and developing new features (Video Player & Course Module).
+- Resolve the bugs. 
+
+
 <a href='https://play.google.com/store/apps/details?id=com.iguruji.biolifescience&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
@@ -64,6 +90,13 @@ iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , 
 Orders will be picked up by our associated helpers whom we have screened and have they have undergone a housekeeping course to ensure a minimum standard in providing the service.
 Our objective is to provide an efficient housekeeping service to a satisfactory standard.
 No more worries of per hour charges and overstay beyond the necessary timings.
+
+#### Key Responsibility:
+- Creating android application from the scratch.
+- Communication with the client (Singapore).
+- Responsible for the development of all application components and UI resources.
+- Building compliant and scalable android Applications.
+- Worked with the UI team to design the appropriate icon and display for the screens
 
 
 #### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
@@ -80,6 +113,13 @@ Our objective is to provide an efficient housekeeping service to a satisfactory 
 Please Visit our website for more details: https://www.voilasg.com
 
 #### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
+
+#### Key Responsibility:
+- Creating android application from the scratch.
+- Communication with the client (Singapore).
+- Responsible for the development of all application components and UI resources.
+- Building compliant and scalable android Applications.
+- Worked with the UI team to design the appropriate icon and display for the screens
 
 <a href='https://play.google.com/store/apps/details?id=com.voila.supervisor&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
