@@ -29,7 +29,32 @@ Now enjoy and experience the entire offering of Decathlon India’s 70+ sports a
 
 ![Decathlon Online Shopping App](./images/decathlon_app.png)
 
-# 2. RajCop (Only For Rajasthan Police Officials)
+
+# 2. Digilux AI
+
+Integral features include:
+Scene controls
+IR controls for airconditioners, television & other multimedia devices.
+User-defined graphic interface
+Integration with home security products.
+
+Helps create shortcuts based on user usage formats besides communicating with Alexa, Google Home & many more connected home products.
+
+#### Technolgies : Kotlin,Room,openid AppAuth,NeumorphismView ,RxJava,Retrofit,MVP
+
+#### Key Responsibility:
+- Working on OAuth Intergration.
+- Add new Sub user module.
+- Working on hybrid code language in both Java & Kotlin.
+- Sqlite & Room DB Migrations.
+
+<a href='https://play.google.com/store/apps/details?id=com.brilliance.digiluxRedux.configurator'>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
+</a>
+
+![Decathlon Online Shopping App](./images/decathlon_app.png)
+
+# 3. RajCop (Only For Rajasthan Police Officials)
 
 RajCop - Mobile application only to be used by authorized Rajasthan Police Officials. Others may not install and try it out. Its use is subject to legal consequences.
 
@@ -49,7 +74,7 @@ RajCop - Mobile application only to be used by authorized Rajasthan Police Offic
 
 ![RajCop (Only For Rajasthan Police Officials)](./images/rajcop_official.png)
 
-# 3. RajCop Citizen
+# 4. RajCop Citizen
 
 This application is for citizens only to access  Lockdown Pass(Restrictions related to Corona Virus spread, police control room and selected contacts, Complaint registration and its status, View FIR- all FIR's except those which are restricted by law(Revealing victims identity in case of sexual offences, etc.), Report Crime, Search Vehicle- Basic details many more
 
@@ -68,7 +93,7 @@ This application is for citizens only to access  Lockdown Pass(Restrictions rela
 
 ![RajCop Citizen](./images/rajcop_citizin.png)
 
-# 4. iGuruJi -CSIR NET,GATE,IIT-JAM
+# 5. iGuruJi -CSIR NET,GATE,IIT-JAM
 
 iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , a part of AADHAR INSTITUTE’s Distance Learning Program Division. Aadhar Institute is the India's leading name in the field of Biotechnology and Life Science coaching, preparing students for Various Exams since 2002.
 
@@ -85,7 +110,7 @@ iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , 
 
 ![iGuruJi -CSIR NET,GATE,IIT-JAM](./images/iguruji.png)
 
-# 5. Voila SG
+# 6. Voila SG
 
 Orders will be picked up by our associated helpers whom we have screened and have they have undergone a housekeeping course to ensure a minimum standard in providing the service.
 Our objective is to provide an efficient housekeeping service to a satisfactory standard.
@@ -107,7 +132,7 @@ No more worries of per hour charges and overstay beyond the necessary timings.
 
 ![Voila SG](./images/voilla_sg.png)
 
-# 6. Voila Helper
+# 7. Voila Helper
 
 Our objective is to provide an efficient housekeeping service to a satisfactory standard.
 Please Visit our website for more details: https://www.voilasg.com
